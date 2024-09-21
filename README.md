@@ -1,14 +1,15 @@
+![](https://media.licdn.com/dms/image/v2/D4D16AQGpnzSZ4_vTDg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698382820695?e=1732147200&v=beta&t=yFuuipIA2V5iduNg8Nzt2EC3eXi_VJ8WOTzkvXeg-5g)
+# Towhidul Islam
+#### Certified ScrumMaster® |Ex. Staff Engineer @Samsung |ML Enthusiast
 
-## Towhid Islam - Computer Engineer
-
-I am a software engineer with a strong background in software development, network programming, and UI programming. With over a decade of experience, I have successfully led multiple teams and projects, delivering cutting-edge solutions at Samsung R&D Institute Bangladesh. I am actively seeking full-time opportunities where I can leverage my skills in problem-solving, leadership, and project management.
+## About Me
+I am a dedicated software architect, developer, and project lead with a rich and diverse experience in multiple domains. I've been in the industry since 2007, consistently delivering innovative solutions and leading successful projects. My technical expertise encompasses various programming languages, including C/C++, Java, C#, and Python. I thrive on challenges and have a proven track record in connectivity projects, where I've facilitated seamless communication between devices and systems. Additionally, I have a strong background in automation tool development, streamlining processes, and improving operational efficiency for my clients. Notably, I served as a Maintainer of IoTivity.org from February 2017 to January 2018, actively participating in developing cutting-edge IoT solutions and fostering collaboration within the IoT community.
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/towhid-islam/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/towhid-mun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/towhid-islam/)  
 
 ## Skills
-
 **Programming Languages:** C/C++, .NET (C#, UWP, WPF), JAVA, PYTHON, Matlab, JavaScript  
 **Tools:** Visio, draw.io, Git, SVN, Perforce, MS Teams  
 **Soft Skills:** Leadership, Teamwork, Time Management, Communication, Decision-Making  
