@@ -1,3 +1,4 @@
+
 ## Towhid Islam - Computer Engineer
 
 I am a software engineer with a strong background in software development, network programming, and UI programming. With over a decade of experience, I have successfully led multiple teams and projects, delivering cutting-edge solutions at Samsung R&D Institute Bangladesh. I am actively seeking full-time opportunities where I can leverage my skills in problem-solving, leadership, and project management.
@@ -65,6 +66,8 @@ GPA: 3.5/4.0
 ## Patent
 
 [Network Connection Method and Electronic Device Supporting Same. South Korea#KR338648323 USA#US383825865 ](https://patentscope.wipo.int/search/en/detail.jsf?docId=KR338648323&_fid=US383825865)
+
+[![Towhid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Towhid-Mun)](https://github.com/Towhid-Mun/github-readme-stats)
 
 
 
