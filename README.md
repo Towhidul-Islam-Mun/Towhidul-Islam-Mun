@@ -44,18 +44,22 @@ GPA: 3.5/4.0
 
 ## Certifications
 
-- Deep Learning Specialization by Andrew NG (04/2018)  
-  [Certificate](https://www.coursera.org/account/accomplishments/specialization/B79FD23JZ7LY)
-- Artificial Intelligence: Reinforcement Learning in Python (01/2018)  
-  [Certificate](http://ude.my/UC-DP98C2VP)
-- Certified ScrumMaster (03/2017)  
-  [Certificate](http://bcert.me/svlathwzp)
+- **[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/B79FD23JZ7LY)** by Andrew NG (April 2018)  
+- **[Artificial Intelligence: Reinforcement Learning in Python](http://ude.my/UC-DP98C2VP)** (January 2018)  
+- **[Certified ScrumMaster](http://bcert.me/svlathwzp)** (March 2017)  
+- **[Beginner's Guide to Cloud Computing and OpenStack](http://ude.my/UC-E7HQ032D)** (July 2018)  
+- **[Software Architecture Case Studies](http://ude.my/UC-3112098b-41eb-4bd8-858b-1ae51149bc47)** by Memi Lavi (July 2021)
+
 
 ## Awards
 
-- Samsung Research Institute Bangladesh DoI Award (2023)  
-- Samsung CTO Award for QuickShare (2021)  
-- Samsung CTO Award for Samsung Note for PC (2020)  
+- **Samsung Research Institute Bangladesh DoI Award** (2023)  
+- **Samsung CTO Award** (2021) for the QuickShare project  
+- **Samsung CTO Award** (2020) for the Samsung Note for PC project  
+- **Samsung CTO Award** (2019) for the Samsung DeX for PC project  
+- **Team of the Year** (2019) for the Samsung DeX for PC project  
+- **Star of the Month** (May 2017)  
+- **Scholarship**: "The Medha Lalon Fund" from East West University (2005-2006) 
 
 
 ## Patent
